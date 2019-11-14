@@ -1,0 +1,80 @@
+body{
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	border-radius:25px;
+	border-style:solid;
+	border-color:lightgray;
+	box-shadow:0 0 20px rgb(255, 231, 126);
+	font-family:verdana;
+	background-color:rgb(44, 44, 44);
+}
+
+h1{
+	padding:10px;
+	text-align:center;
+	border-bottom-style:solid;
+	color:lightgray;
+	font-family:"Agency FB"
+}
+
+p.introduction{
+	color:lightgray;
+}
+
+h2{
+	color:lightgray;
+	border-bottom-style:dotted;
+	border-color:gray;
+	font-size:35px;
+	font-family:"Agency FB";
+	padding-left:5px;
+}
+
+summary {
+	box-shadow:0 0 5px rgb(105, 95, 50);
+	border-radius:25px;
+	padding:10px;
+	margin:2px;
+	color:lightgray;
+}
+summary:hover{
+	background-color:rgb(255, 231, 126);;
+	box-shadow:0 0 20px rgb(255, 231, 126);
+	color:black;
+}
+p.sumText{
+	margin-left:20px;
+	padding:5px;
+	color:lightgray;
+}
+
+p.projectLink{
+	text-align:center;
+	border-radius:25px;
+	box-shadow:0 0 5px rgb(81, 128, 153);
+	padding:5px;
+}
+
+p.projectLink:hover{
+	background-color:lightskyblue;
+	box-shadow:0 0 20px lightskyblue;
+	color:black;
+}
+
+p.sumSecond {
+	background-color:#d5e3ff;
+	text-align:center;
+	font-size:12px;
+}
+
+p.footerText{
+	padding-left:5px;
+	color:lightgray;
+}
+
+a{
+	color:lightskyblue;
+}
